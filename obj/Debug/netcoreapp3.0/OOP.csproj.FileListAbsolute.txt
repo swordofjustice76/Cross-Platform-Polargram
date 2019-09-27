@@ -1,0 +1,11 @@
+C:\Users\Damon\Desktop\OOP\bin\Debug\netcoreapp3.0\OOP.exe
+C:\Users\Damon\Desktop\OOP\bin\Debug\netcoreapp3.0\OOP.deps.json
+C:\Users\Damon\Desktop\OOP\bin\Debug\netcoreapp3.0\OOP.runtimeconfig.json
+C:\Users\Damon\Desktop\OOP\bin\Debug\netcoreapp3.0\OOP.runtimeconfig.dev.json
+C:\Users\Damon\Desktop\OOP\bin\Debug\netcoreapp3.0\OOP.dll
+C:\Users\Damon\Desktop\OOP\bin\Debug\netcoreapp3.0\OOP.pdb
+C:\Users\Damon\Desktop\OOP\obj\Debug\netcoreapp3.0\OOP.csprojAssemblyReference.cache
+C:\Users\Damon\Desktop\OOP\obj\Debug\netcoreapp3.0\OOP.AssemblyInfoInputs.cache
+C:\Users\Damon\Desktop\OOP\obj\Debug\netcoreapp3.0\OOP.AssemblyInfo.cs
+C:\Users\Damon\Desktop\OOP\obj\Debug\netcoreapp3.0\OOP.dll
+C:\Users\Damon\Desktop\OOP\obj\Debug\netcoreapp3.0\OOP.pdb
